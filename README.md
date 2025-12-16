@@ -58,7 +58,7 @@ These personal projects help me think through problems I tackle professionally. 
 
 ### 📬 Let's Connect
 
-I value meaningful connections—let's trade notes on AI and monetization, or collaborate on interesting problems.
+I value meaningful connections—let's collaborate on interesting problems & opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmbeh/)
 
