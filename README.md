@@ -1,4 +1,4 @@
-# Hi, I'm JM Beh 👋
+# Hi, I'm JM 👋
 
 Simplicity is my compass, but I earn it through rigorous thinking—I use data to light the way when it matters, and trust judgment when it's time to learn by doing. That's because **strategy is intent; code is reality**, so I channel my curiosity into **agentic coding** to ensure they actually align. I write and prototype to comprehend the problem space before engineering begins, because that's where the hard questions live. 
 
