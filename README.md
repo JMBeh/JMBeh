@@ -8,7 +8,7 @@ I value simplicity, but earn it through rigor—data when it matters, judgment w
 
 Director at Adobe Commerce, building a prototype library for agentic development, codifying monetization expertise, and evangelizing AI-first PM craft at enterprise scale. 
 
-Work repos are internal, but I generalize and share the patterns. **[Helpful Prompts](https://github.com/mostly-coherent/Helpful-Prompts)** has system prompts and workflows from my work, adapted so they're not Adobe infra-specific. Happy to discuss what you're building.
+Work repos are internal, but I generalize and share some of the patterns here. **[Helpful Prompts](https://github.com/mostly-coherent/Helpful-Prompts)** has prompts and workflows from my work, adapted so they're not Adobe infra-specific. Happy to discuss what you're building.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmbeh/)
 
